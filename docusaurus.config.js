@@ -1,5 +1,5 @@
 module.exports = {
-  title: 'My Site',
+  title: 'Hypercable Analytics',
   tagline: 'The tagline of my site',
   url: 'https://your-docusaurus-test-site.com',
   baseUrl: '/',
@@ -13,7 +13,7 @@ module.exports = {
       title: 'My Site',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'https://avatars.githubusercontent.com/u/73714142?s=200&v=4',
       },
       items: [
         {
