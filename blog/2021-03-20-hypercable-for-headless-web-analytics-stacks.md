@@ -10,7 +10,6 @@ description: "MPP Database or SQL-MR（bigquery、clickhouse、presto） + self 
 tags: [analytics, bi, headless, hypercable]
 ---
 
-# Hypercable for Headless Web Analytics Stacks
 
 ## 什么是 Headless CMS
 
