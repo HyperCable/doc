@@ -5,7 +5,7 @@ author: Hooopo Wang
 author_title: Hypercable Team
 author_url: https://github.com/hooopo
 author_image_url: https://avatars.githubusercontent.com/u/63877?s=460&v=4
-image: "https://l.ruby-china.com/photo/hooopo/584c419c-54dc-46aa-b8fb-9c6ef1f8e2c7.png!large"
+image: "https://l.ruby-china.com/photo/hooopo/805b6e0a-658a-4327-b4c4-29b599956c5b.png!large"
 description: "MPP Database or SQL-MR（bigquery、clickhouse、presto） + self service BI（metabase、chartio、cubejs）= Headless Web Analytics Stacks"
 tags: [analytics, bi, headless, hypercable]
 ---
