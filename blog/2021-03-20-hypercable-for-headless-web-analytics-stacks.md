@@ -5,6 +5,8 @@ author: Hooopo Wang
 author_title: Hypercable Team
 author_url: https://github.com/hooopo
 author_image_url: https://avatars.githubusercontent.com/u/63877?s=460&v=4
+image: "https://l.ruby-china.com/photo/hooopo/584c419c-54dc-46aa-b8fb-9c6ef1f8e2c7.png!large"
+description: "MPP Database or SQL-MR（bigquery、clickhouse、presto） + self service BI（metabase、chartio、cubejs）= Headless Web Analytics Stacks"
 tags: [analytics, bi, headless, hypercable]
 ---
 
@@ -26,7 +28,7 @@ tags: [analytics, bi, headless, hypercable]
 那么，Headless Analytics流行的几个因素：
 
 * SQL成为数据分析领域的第一语言，大数据领域的组件无论底层实现是什么，都会提供SQL接口，比如各种SQL on hadoop、SQL on HDFS，甚至SQL on kafka。还有一些坚持造自己的查询语言的组件，比如elastic和influxdb，不过这都成为了永久的遗留问题。
-* 分析型数据库的扩展能力和性能有了很大提升，像bigquery、clickhouse、greenplum、timescaledb等开源产品和云服务的数据处理能力足够强大，在大PB级数据量，Ad Hoc查询也可以秒级响应，不需要像传统数仓预聚合之类的方案，也不需要很重的ETL。ELT和Data Lake成为新的趋势。
+* 分析型数据库的扩展能力和性能有了很大提升，像bigquery、clickhouse、greenplum、timescaledb等开源产品和云服务的数据处理能力足够强大，在PB级数据量，Ad Hoc查询也可以秒级响应，不需要像传统数仓预聚合之类的方案，也不需要很重的ETL。ELT和Data Lake成为新的趋势。
 * [Self Service BI](https://chartio.com/learn/business-intelligence/self-service-bi-what-you-need-to-know/) 开源项目和云服务的流行，由于SQL的标准化接口和普及，才有了像metabase、superset、chartio、mode analytics、cubejs等开源和商业的自助式BI可视化工具的流行。SQL作为统一的接口功不可没。
 
 ## Hypercable Analytics
